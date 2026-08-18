@@ -112,10 +112,10 @@ const Portfolio = () => {
             Mainly working with <strong>Unreal Engine</strong> and <strong>C++</strong>, and always looking for ways to push mechanics, feedback, and fun.
           </p>
 		  <p className="mb-6 text-lg">
-            Currently the <strong>Lead Developer</strong> of <a href="https://hiddeninteractive.com/" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>Hidden Interactive</strong></a>.
+            Currently the <strong>Lead Developer</strong> of <a href="https://hiddeninteractive.com/" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>Hidden Interactive</strong></a>, and also part of the <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> team as an <strong>Unreal Developer</strong>.
           </p>
 		  <p className="mb-6 text-lg">
-            I am also part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal Developer</strong>.
+            I also like beer, pizza, and I dance salsa and bachata too, but nobody asks about that...
           </p>
           <p className="text-lg">
             Feel free to contact me for anything you want!
