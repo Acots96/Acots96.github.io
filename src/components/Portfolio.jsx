@@ -114,9 +114,9 @@ const Portfolio = () => {
 		  <p className="mb-6 text-lg">
             Currently the <strong>Lead Developer</strong> of <a href="https://hiddeninteractive.com/" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>Hidden Interactive</strong></a>.
           </p>
-          /*<p className="mb-6 text-lg">
+          {/*<p className="mb-6 text-lg">
             I am also part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal dev</strong> and working as a <strong>Raylib/C++ teacher</strong> in a videogames programming degree (<a href="https://citm.upc.edu" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CITM – UPC</strong></a>).
-          </p>*/
+          </p>*/}
 		  <p className="mb-6 text-lg">
             I am also part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal Developer</strong>.
           </p>
