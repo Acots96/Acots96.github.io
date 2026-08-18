@@ -83,7 +83,7 @@ const Portfolio = () => {
               <span className="ml-2">Email</span>
             </div>
             <div className="flex items-center mb-2">
-              <a href="https://drive.google.com/file/d/1B83HPk9Cl2jqIxb_E19V75EqK3q3FGXF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1VKaCw_HvRV2VTRbWLd1EYimhKNkZIY81/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FaFileAlt className="text-2xl transition duration-500 hover:text-gray-400" />
               </a>
               <span className="ml-2">Resume</span>
