@@ -111,8 +111,14 @@ const Portfolio = () => {
             Hi! I am <strong>Aleix</strong>, a game programmer from <strong>Barcelona, Spain</strong>, focused on <strong>gameplay, systems</strong>, and making games feel amazing to play.
             Mainly working with <strong>Unreal Engine</strong> and <strong>C++</strong>, and always looking for ways to push mechanics, feedback, and fun.
           </p>
-          <p className="mb-6 text-lg">
-            Currently being part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal dev</strong> and working as a <strong>Raylib/C++ teacher</strong> in a videogames programming degree (<a href="https://citm.upc.edu" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CITM – UPC</strong></a>).
+		  <p className="mb-6 text-lg">
+            Currently the <strong>Lead Developer</strong> of <a href="https://hiddeninteractive.com/" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>Hidden Interactive</strong></a>.
+          </p>
+          /*<p className="mb-6 text-lg">
+            I am also part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal dev</strong> and working as a <strong>Raylib/C++ teacher</strong> in a videogames programming degree (<a href="https://citm.upc.edu" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CITM – UPC</strong></a>).
+          </p>*/
+		  <p className="mb-6 text-lg">
+            I am also part of <a href="https://www.linkedin.com/company/creekgames/about" target="_blank" rel="noopener noreferrer" className="text-cyan-500 hover:underline"><strong>CreekGames</strong></a> as an <strong>Unreal Developer</strong>.
           </p>
           <p className="text-lg">
             Feel free to contact me for anything you want!
